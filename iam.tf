@@ -7,5 +7,3 @@ resource "aws_instance" "first_ec2_instance" {
 variable "instance_type" {
   default = "t2.micro"
 }
-
-##intelliJ
